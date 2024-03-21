@@ -48,7 +48,6 @@ article {
   padding: 20px;
   color: #ffffff;
   font-size: 21px;
-  margin: 0.5px;
 }
 
 .btn-pravidla {
@@ -56,6 +55,7 @@ article {
 }
 .btn-hrat {
   background-color: #0197f6;
+  margin-top: 1px;
 }
 
 .btn-pravidla:hover {
